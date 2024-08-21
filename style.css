@@ -36,5 +36,18 @@ header nav ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 50px 60px;
+    padding: 0px 60px;
+    height: 500px;
+
+    background-image: url(/assets/Section\ \(1\).png);
+    background-size: cover;
+
+}
+
+.jumbotron h1{
+
+    font-size: 52px;
+    justify-content: end;
+    
+
 }
