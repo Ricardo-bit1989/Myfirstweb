@@ -1,6 +1,7 @@
 *{
     font-size: 16px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Roboto Mono", monospace;
     font-weight: 400;
 
     margin: unset;
@@ -51,3 +52,4 @@ header nav ul {
     
 
 }
+
