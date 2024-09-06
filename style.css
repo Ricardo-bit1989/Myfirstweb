@@ -84,15 +84,23 @@ header nav ul {
 
 .container {
 
-    display: grid;
-    justify-items: center;
-    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
 }
 .h2{
     width: 654px;
     height: 86px;
     font-size: 64px;
     display: grid;
+}
+
+.tarjetas{
+    display: grid;
+    justify-items: center;
+    grid-template-columns: repeat(auto-fill,minmax(300px, 1fr));
+/*     
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+     */
 }
 
 
